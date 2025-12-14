@@ -9,8 +9,8 @@ A modern, clean, and interactive Body Mass Index (BMI) calculator built with Flu
 | **Input Screen** | **Result Screen1** | **Result Screen2** |
 |:---:|:---:|:---:|
 | <img src="screenshot_1765750020.png" width="250" /> | <img src="screenshot_1765750043.png" width="250" /> |  
-<img src="screenshot_1765750154.png" width="250" />
-| *Clean inputs for Height & Weight* | *Instant calculation & Health Tips* |
+<img src="screenshot_1765750154.png" width="250" /> |
+| *Clean inputs for Height & Weight* | *Instant calculation & Health Tips* | |
 
 
 ---
