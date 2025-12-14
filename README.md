@@ -27,4 +27,4 @@ A modern, clean, and interactive Body Mass Index (BMI) calculator built with Flu
 ### 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/saadullah-001/BMI-Calculator-App.git](https://github.com/saadullah-001/BMI-Calculator-App.git)
+   git clone [https://github.com/saadullah-001/BMI-App.git](https://github.com/saadullah-001/BMI-App.git)
